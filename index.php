@@ -1,5 +1,5 @@
 <?php
 
-	echo "E ai, Git"
-	
+	echo "E ai, Git";
+	echo "Outro echo";
 ?>
